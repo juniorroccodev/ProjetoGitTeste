@@ -11,22 +11,17 @@ namespace projeto_git_teste
         static void Main(string[] args)
         {
 
-            try
-            {
-                Console.WriteLine("Hello");
-            }
-            catch (ArgumentNullException)
-            {
-                Console.WriteLine("A");
-            }
-            catch (Exception)
-            {
-                Console.WriteLine("B");
-            }
-            finally
-            {
-                Console.WriteLine("C");
-            }
+           int n1, n2, resultado;
+
+            Console.WriteLine("Digite qualquer número: ");
+            n1 = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Digite o segundo número: ");
+            n2 = int.Parse(Console.ReadLine());
+
+            resultado = n1 + n2;
+            Console.WriteLine("O Resultado é: " + resultado);
+
             Console.ReadKey();
         }
 
