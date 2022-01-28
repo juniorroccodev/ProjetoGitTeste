@@ -1,0 +1,8 @@
+C:\Users\norbe\OneDrive\Área de Trabalho\projetoclone\ProjetoGitTeste\obj\Debug\projeto-git-teste.csproj.AssemblyReference.cache
+C:\Users\norbe\OneDrive\Área de Trabalho\projetoclone\ProjetoGitTeste\obj\Debug\projeto-git-teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\norbe\OneDrive\Área de Trabalho\projetoclone\ProjetoGitTeste\obj\Debug\projeto-git-teste.csproj.CoreCompileInputs.cache
+C:\Users\norbe\OneDrive\Área de Trabalho\projetoclone\ProjetoGitTeste\bin\Debug\projeto-git-teste.exe.config
+C:\Users\norbe\OneDrive\Área de Trabalho\projetoclone\ProjetoGitTeste\bin\Debug\projeto-git-teste.exe
+C:\Users\norbe\OneDrive\Área de Trabalho\projetoclone\ProjetoGitTeste\bin\Debug\projeto-git-teste.pdb
+C:\Users\norbe\OneDrive\Área de Trabalho\projetoclone\ProjetoGitTeste\obj\Debug\projeto-git-teste.exe
+C:\Users\norbe\OneDrive\Área de Trabalho\projetoclone\ProjetoGitTeste\obj\Debug\projeto-git-teste.pdb
